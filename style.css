@@ -65,5 +65,13 @@ a:hover{
 
 
 .home-content {
-    
+    color: white;
+    padding: 5px;
+    margin: 5px;
+}
+
+.munshid {
+    display: flex;
+    padding: 5px;
+    margin: 5px;
 }

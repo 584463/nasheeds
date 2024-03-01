@@ -19,15 +19,11 @@
 
     <div class="home-content">
         <h1>Welocme To Nasheeds</h1>
-        <p>We dont belong to any organization We just help people to find nasheeds or other sound tracks</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, quaerat qui omnis dolores aliquid, nisi illo, magni repellat dolorum dolore sed excepturi illum rerum vero sapiente numquam veritatis ipsam beatae.
+        </p>
     </div>
-    <br>
-    <br>
-    <div class="munshid">
+    
     <a href="musab al-adani\musab-aldani.html">musab al-dani</a>
-    </div>
-
-
 
 </body>
 </html>
