@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../style.css">
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-    <title>arab moive</title>
+    <title>Nasheeds</title>
 </head>
 <body>
     <nav>
@@ -17,13 +17,6 @@
         </ul>
     </nav>
 
-    <div class="home-content">
-        <h1>Welocme To Nasheeds</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, quaerat qui omnis dolores aliquid, nisi illo, magni repellat dolorum dolore sed excepturi illum rerum vero sapiente numquam veritatis ipsam beatae.
-        </p>
-    </div>
-    
-    <a href="musab al-adani\musab-aldani.html">musab al-dani</a>
 
 </body>
 </html>
