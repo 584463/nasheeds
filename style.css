@@ -73,7 +73,12 @@ a:hover{
 }
 
 .munshid {
+    color: #0093fd;
     display: flex;
     padding: 10px;
     margin: 10px;
+}
+
+footer {
+    color: white;
 }
